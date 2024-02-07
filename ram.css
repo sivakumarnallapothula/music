@@ -59,6 +59,79 @@
     justify-content: center;
     align-items: center;
 }
+@media only screen and (min-width:1200px) {
+
+.sk {
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background: url('https://assets.voxcinemas.com/posters/P_HO00010781.jpg') no-repeat center center fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+}
+
+.nsk {
+    object-fit: fill;
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background: url('https://images.filmibeat.com/webp/ph-big/2023/06/eagle_168663352700.jpg') no-repeat center center fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk2 {
+    object-fit: fill;
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background: url('https://bingeddata.s3.amazonaws.com/uploads/2023/10/Ambajipeta-Marriage-Band-2023-Telugu-Movie-Streaming-768x960.jpg') no-repeat center center fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk3 {
+
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background: url('https://i.pinimg.com/564x/a0/ac/f5/a0acf50594d7f6eebda28e824d576b6a.jpg') no-repeat center center fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk4 {
+
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+  background-size: cover;
+    background-image: url('https://images.filmibeat.com/webp/ph-big/2022/11/hanuman-2023_166902346020.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+}
+
+
 
 @media only screen and (max-width:576px) {
 
