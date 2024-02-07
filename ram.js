@@ -22,7 +22,7 @@ let beat = new Audio('https://res.cloudinary.com/siva7482/video/upload/v17072077
 let beat1 = new Audio('https://res.cloudinary.com/siva7482/video/upload/v1707211988/Gallanthe_ujl1ot.mp3');
 let beat11 = new Audio('https://res.cloudinary.com/siva7482/video/upload/v1707213483/iSongs.info_01_-_Gumma_zbixii.mp3');
 let beat4 = new Audio('https://res.cloudinary.com/siva7482/video/upload/v1707287404/iSongs.info_Oye_Oye_cxygko.mp3');
-let beat5 = new Audio('https://res.cloudinary.com/siva7482/video/upload/v1707287408/iSongs.info_02_-_Ram_Ram_Ram_Theme_vaaif9.mp3');
+let beat5 = new Audio('https://res.cloudinary.com/siva7482/video/upload/v1707291401/rum_rum_h4tfcd.mp3');
 
 function but() {
     if (a.textContent === "Play") {
