@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.sk {
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://assets.voxcinemas.com/posters/P_HO00010781.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+}
+
+.nsk {
+    object-fit: fill;
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.filmibeat.com/webp/ph-big/2023/06/eagle_168663352700.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk2 {
+    object-fit: fill;
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://bingeddata.s3.amazonaws.com/uploads/2023/10/Ambajipeta-Marriage-Band-2023-Telugu-Movie-Streaming-768x960.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk3 {
+
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://i.pinimg.com/564x/a0/ac/f5/a0acf50594d7f6eebda28e824d576b6a.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nsk4 {
+
+    height: 100vh;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.filmibeat.com/webp/ph-big/2022/11/hanuman-2023_166902346020.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (min-width:1200px) {
+
+    .sk {
+        height: 100vh;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background: url('https://assets.voxcinemas.com/posters/P_HO00010781.jpg') no-repeat center center fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        object-fit: fill;
+    }
+
+    .nsk {
+        object-fit: fill;
+        height: 100vh;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background: url('https://images.filmibeat.com/webp/ph-big/2023/06/eagle_168663352700.jpg') no-repeat center center fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nsk2 {
+        object-fit: fill;
+        height: 100vh;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background: url('https://bingeddata.s3.amazonaws.com/uploads/2023/10/Ambajipeta-Marriage-Band-2023-Telugu-Movie-Streaming-768x960.jpg') no-repeat center center fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nsk3 {
+
+        height: 100vh;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background: url('https://i.pinimg.com/564x/a0/ac/f5/a0acf50594d7f6eebda28e824d576b6a.jpg') no-repeat center center fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nsk4 {
+        height: 100vh;
+        background-attachment: fixed;
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: 100%;
+        background: url('https://images.filmibeat.com/webp/ph-big/2022/11/hanuman-2023_166902346020.jpg');
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+
+@media only screen and (max-width:576px) {
+
+
+    .mn {
+        transition: margin 0.5s ease-in-out;
+        margin-right: 180px;
+    }
+
+    .nm {
+        transition: margin 0.5s ease-in-out;
+        margin-left: 12px;
+    }
+
+    .nm1 {
+        transition: margin 0.5s ease-in-out;
+        margin-left: 180px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+}
+
+h1 {
+    color: white;
+    letter-spacing: 5px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.lo {
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    background-color: black;
+    box-shadow: 0px 0px 5px 4px grey;
+}
+
+.lone {
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    background-color: #f05316;
+    box-shadow: 0px 0px 5px 2px #f05316;
+}
+
+.ok {
+    display: inline-block;
+    min-width: 250px;
+    position: absolute;
+    border-radius: 50px;
+    background: none;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    box-shadow: inset 2px 2px 7px 5px grey;
+}
+
+.button1 {
+    position: relative;
+    width: 40%;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: inset 0px 0px 5px 2px grey;
+}
+
+.first {
+    position: fixed;
+    margin-top: 200px;
+    cursor: pointer;
+
+}
+
+.lan {
+    color: white;
+}
+
+.lar {
+    color: white;
+}
+
+.lan:hover {
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 2px black;
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+
+}
+
+.lar:hover {
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 2px black;
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+
+}
+
+.button1:hover {
+    color: white;
+    background: transparent;
+    box-shadow: inset 2px 2px 7px 5px white;
+}
+
+.ll {
+    transition: 0.3s;
+    transform: translateX(150px);
+}
+
+.hh {
+    position: fixed;
+    margin-left: 10px;
+}
+
+.lll {
+    transition: 0.5s;
+    transform: -translateX(160px);
+}
+
+.mn {
+    transition: margin 0.5s ease-in-out;
+    margin-right: 180px;
+}
+
+.nm {
+    transition: margin 0.5s ease-in-out;
+    margin-left: 12px;
+}
+
+.nm1 {
+    transition: margin 0.5s ease-in-out;
+    margin-left: 180px;
+}
